@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Test2-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\Test2Editor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\ActorSpawner.cpp.obj"
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\ActorToSpawn.cpp.obj"
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\Test2.cpp.obj"
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\Test2Character.cpp.obj"
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\Test2GameMode.cpp.obj"
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\Test2HUD.cpp.obj"
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\Test2Projectile.cpp.obj"
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\ActorSpawner.gen.cpp.obj"
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\ActorToSpawn.gen.cpp.obj"
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\Test2.init.gen.cpp.obj"
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\Test2Character.gen.cpp.obj"
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\Test2GameMode.gen.cpp.obj"
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\Test2HUD.gen.cpp.obj"
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\Test2Projectile.gen.cpp.obj"
+"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\Default.rc2.res"
+/OUT:"C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\UE4Editor-Test2-Win64-DebugGame.lib"

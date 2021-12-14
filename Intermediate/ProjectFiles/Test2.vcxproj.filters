@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Test2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5EFA1757-E0C6-403F-9D6B-103BCC287170}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Test2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Test2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2D3E283E-AFBB-4929-B1CA-8E525EA89675}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Test2">
+      <UniqueIdentifier>{E8B77A36-CB8F-4B83-AED9-6BF369904ADF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Test2\ActorSpawner.cpp">
+      <Filter>Source\Test2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test2\ActorSpawner.h">
+      <Filter>Source\Test2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test2\ActorToSpawn.cpp">
+      <Filter>Source\Test2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test2\ActorToSpawn.h">
+      <Filter>Source\Test2</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Test2\Test2.Build.cs">
+      <Filter>Source\Test2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Test2\Test2.cpp">
+      <Filter>Source\Test2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test2\Test2.h">
+      <Filter>Source\Test2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test2\Test2Character.cpp">
+      <Filter>Source\Test2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test2\Test2Character.h">
+      <Filter>Source\Test2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test2\Test2GameMode.cpp">
+      <Filter>Source\Test2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test2\Test2GameMode.h">
+      <Filter>Source\Test2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test2\Test2HUD.cpp">
+      <Filter>Source\Test2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test2\Test2HUD.h">
+      <Filter>Source\Test2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Test2\Test2Projectile.cpp">
+      <Filter>Source\Test2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Test2\Test2Projectile.h">
+      <Filter>Source\Test2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

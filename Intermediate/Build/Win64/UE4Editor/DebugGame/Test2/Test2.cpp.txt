@@ -1,0 +1,2 @@
+C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\Definitions.Test2.h
+C:\Users\malko\Documents\Unreal Projects\Test2\Source\Test2\Test2.h

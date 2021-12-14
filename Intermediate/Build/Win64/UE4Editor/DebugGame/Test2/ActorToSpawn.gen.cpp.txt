@@ -1,0 +1,5 @@
+C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\DebugGame\Test2\Definitions.Test2.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\malko\Documents\Unreal Projects\Test2\Source\Test2/ActorToSpawn.h
+C:\Users\malko\Documents\Unreal Projects\Test2\Intermediate\Build\Win64\UE4Editor\Inc\Test2\ActorToSpawn.generated.h
